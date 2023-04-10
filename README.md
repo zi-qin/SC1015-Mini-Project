@@ -30,10 +30,10 @@ Professional Worker Career Experience Survey, United States, 2003-2004 : https:/
 
 ## What did we learn from this project?
 
-- Handling imbalanced datasets using resampling methods and imblearn package
-- Logistic Regression from sklearn
-- Collaborating using GitHub
-- Concepts about Precision, Recall, and F1 Score
+- Apply and ApplyMap method for data preparation
+- Stacked bar charts to visualise relationships between categorical variables
+- Logistic regression as a classifier
+- Concepts on F1 score and AUC-ROC curve
 
 # References
 
