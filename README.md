@@ -4,7 +4,7 @@
 
 ## About
 
-### This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on movies from ?. For detailed walkthrough, please view the source code in order from:
+- This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on movies from ?. For detailed walkthrough, please view the source code in order from:
 1.
 2.
 3.
