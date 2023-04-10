@@ -4,8 +4,8 @@
 
 ## About
 
-- This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on career experience of employyes in the United States from 2003 to 2004. For detailed walkthrough, please view the source code in order from:
-1.
+- This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on career experience of employees in the United States from 2003 to 2004. For detailed walkthrough, please view the source code in order from:
+1. [Data Preparation] (https://github.com/zi-qin/SC1015-Mini-Project/blob/main/Data%20Preparation.ipynb)
 2.
 3.
 
