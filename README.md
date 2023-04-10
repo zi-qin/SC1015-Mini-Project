@@ -1,6 +1,6 @@
 # SC1015-Mini-Project
 
-## Welcome to employee retention analysis
+# Welcome to employee retention analysis
 
 ## About
 
