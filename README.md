@@ -53,3 +53,6 @@ Professional Worker Career Experience Survey, United States, 2003-2004 : https:/
 - <https://www.statology.org/plot-roc-curve-python/>
 - <https://towardsdatascience.com/a-look-into-feature-importance-in-logistic-regression-models-a4aa970f9b0f>
 - <https://www.geeksforgeeks.org/adding-value-labels-on-a-matplotlib-bar-chart/>
+- <https://towardsdatascience.com/powerful-feature-selection-with-recursive-feature-elimination-rfe-of-sklearn-23efb2cdb54e>
+- <https://towardsdatascience.com/understanding-random-forest-58381e0602d2#:~:text=The%20random%20forest%20is%20a,that%20of%20any%20individual%20tree.>
+- <https://www.sciencedirect.com/topics/computer-science/logistic-regression>
