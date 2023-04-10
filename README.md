@@ -10,6 +10,8 @@
 3. [Machine Learning](https://github.com/zi-qin/SC1015-Mini-Project/blob/main/Random%20Forest%20%26%20Logistic%20Regression%20.ipynb)
 4. [Data Visualisation](https://github.com/zi-qin/SC1015-Mini-Project/blob/main/Data%20Visualisation.ipynb)
 
+## Dataset 
+Professional Worker Career Experience Survey, United States, 2003-2004 : https://www.icpsr.umich.edu/web/ICPSR/studies/26782/export
 
 ## Problems 
 - Which variables best predict employee’s intention to leave their jobs?
@@ -42,3 +44,12 @@
 - <https://towardsdatascience.com/feature-selection-using-random-forest-26d7b747597f>
 - <https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html>
 - <https://www.saedsayad.com/categorical_categorical.html>
+- <https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html>
+- <https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html>
+- <https://towardsdatascience.com/feature-selection-using-random-forest-26d7b747597f>
+- <https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/>
+- <https://towardsdatascience.com/4-ways-to-visualize-individual-decision-trees-in-a-random-forest-7a9beda1d1b7>
+- <https://www.datacamp.com/tutorial/random-forests-classifier-python>
+- <https://www.statology.org/plot-roc-curve-python/>
+- <https://towardsdatascience.com/a-look-into-feature-importance-in-logistic-regression-models-a4aa970f9b0f>
+- <https://www.geeksforgeeks.org/adding-value-labels-on-a-matplotlib-bar-chart/>
