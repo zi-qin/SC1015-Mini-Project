@@ -1,6 +1,6 @@
 # SC1015-Mini-Project
 
-# Welcome to employee retention analysis
+# Welcome to career experience analysis
 
 ## About
 
