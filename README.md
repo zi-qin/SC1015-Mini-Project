@@ -1,6 +1,6 @@
 # SC1015-Mini-Project
 
-# Welcome to career experience analysis
+# Welcome to Career Experience Analysis
 
 ## About
 
