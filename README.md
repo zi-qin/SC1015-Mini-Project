@@ -32,6 +32,7 @@ Professional Worker Career Experience Survey, United States, 2003-2004 : https:/
 
 - Apply and ApplyMap method for data preparation
 - Stacked bar charts to visualise relationships between categorical variables
+- SelectFromModel and RFE from scikitlearn Feature Selection module
 - Logistic regression as a classifier
 - Concepts on F1 score and AUC-ROC curve
 
