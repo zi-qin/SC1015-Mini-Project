@@ -1,6 +1,6 @@
 # SC1015-Mini-Project
 
-# Welcome to Career Experience Analysis
+# Predicting Employee Churn
 
 ## About
 
