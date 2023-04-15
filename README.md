@@ -7,7 +7,7 @@
 - This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on career experience of employees in the United States from 2003 to 2004. For detailed walkthrough, please view the source code in order from:
 1. [Data Preparation](https://github.com/zi-qin/SC1015-Mini-Project/blob/main/Data%20Preparation.ipynb)
 2. [Exploratory Data Analysis](https://github.com/zi-qin/SC1015-Mini-Project/blob/main/Exploratory%20Data%20Analysis.ipynb)
-3. [Machine Learning](https://github.com/zi-qin/SC1015-Mini-Project/blob/main/Random%20Forest%20%26%20Logistic%20Regression%20.ipynb)
+3. [Machine Learning](https://github.com/zi-qin/SC1015-Mini-Project/blob/main/Machine%20Learning.ipynb)
 4. [Data Visualisation](https://github.com/zi-qin/SC1015-Mini-Project/blob/main/Data%20Visualisation.ipynb)
 
 ## Dataset 
