@@ -11,7 +11,7 @@
 4. [Data Visualisation](https://github.com/zi-qin/SC1015-Mini-Project/blob/main/Data%20Visualisation.ipynb)
 
 ## Dataset 
-Professional Worker Career Experience Survey, United States, 2003-2004 : https://www.icpsr.umich.edu/web/ICPSR/studies/26782/export
+Professional Worker Career Experience Survey, United States, 2003-2004 : https://www.icpsr.umich.edu/web/ICPSR/studies/26782/datadocumentation
 
 ## Problems 
 - Which variables best predict employee’s intention to leave their jobs?
