@@ -28,7 +28,7 @@ Professional Worker Career Experience Survey, United States, 2003-2004 : https:/
 
 - The Random Forest Tree classifer has a higher accuracy in predicting the employee’s intention to leave their jobs than Logistic Regression classifier. 
 - From the results of Random Forest Tree classifier, it suggests that "Age" is a key predictor of employee's intention to leave his or her employer.-
-- The variable "Stress" is also one of the key predictor as it is the second best model among the Top 3 models in Random Forest and the best model among the Logistic Regression models. 
+- The variable "Stress" is also one of the key predictor as it is the second best model among the Top 3 Random Forest models and the best model among the Logistic Regression models. 
 
 ## What did we learn from this project?
 
