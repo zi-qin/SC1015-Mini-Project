@@ -41,7 +41,7 @@ Professional Worker Career Experience Survey, United States, 2003-2004 : https:/
 ## Contributions
 
 - Data Preparation: Zi Qin
-- Exploratory Data Analysis: Le Yi, Zhao Ding
+- Exploratory Data Analysis: Le Yi, Zhaoding
 - Machine Learning & Data Visualisation: All members
 - Presentation video: All members
 
