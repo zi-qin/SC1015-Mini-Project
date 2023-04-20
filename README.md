@@ -38,6 +38,13 @@ Professional Worker Career Experience Survey, United States, 2003-2004 : https:/
 - Logistic regression as a classifier
 - Concepts on F1 score and AUC-ROC curve
 
+## Contributions
+
+- Data Preparation: Zi Qin
+- Exploratory Data Analysis: Le Yi, Zhao Ding
+- Machine Learning & Data Visualisation: All members
+- Presentation video: All members
+
 # References
 
 - <https://towardsdatascience.com/how-to-drop-rows-in-pandas-dataframes-with-nan-values-in-certain-columns-7613ad1a7f25>
